@@ -8,6 +8,7 @@ body{
     flex-direction: column;
     background-color: #f1f1f1;
     align-items: center;
+    transform: scale(1.25);
 }
 main{
     width: 90%;
